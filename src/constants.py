@@ -3,6 +3,8 @@ from pathlib import Path
 MAIN_DOC_URL = 'https://docs.python.org/3/'
 PEP_LIST_URL = 'https://peps.python.org/'
 BASE_DIR = Path(__file__).parent
+LOGS_DIR = BASE_DIR / 'logs'
+LOGS_FILE = LOGS_DIR / 'parser.log'
 DATETIME_FORMAT = '%Y-%m-%d_%H-%M-%S'
 
 EXPECTED_STATUS = {
