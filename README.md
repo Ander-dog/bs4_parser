@@ -13,7 +13,7 @@ git clone git@github.com:Ander-dog/bs4_parser.git
 ```
 
 ```
-cd yatube
+cd bs4_parser
 ```
 
 Cоздать и активировать виртуальное окружение:
